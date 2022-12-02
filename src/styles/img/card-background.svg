@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="347" height="200" viewBox="0 0 347 200">
+    <defs>
+        <path id="a" d="M0 .001h347v200H0z"/>
+        <filter id="b" width="107.8%" height="113.5%" x="-3.9%" y="-5.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.111888112 0"/>
+        </filter>
+        <linearGradient id="f" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFF" stop-opacity=".166"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+        </linearGradient>
+        <rect id="e" width="347" height="200" rx="8"/>
+        <filter id="d" width="107.8%" height="113.5%" x="-3.9%" y="-5.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.111888112 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="c" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#000" filter="url(#b)" xlink:href="#a"/>
+        <use fill="#BD968A" xlink:href="#a"/>
+        <path fill="#7D6259" d="M204.003 341C105.947 341 23.543 274.117 0 183.538l.406 1.43V76.032L54.94-18.313l105.296 43.546S203.835-80 203.935-80C204.003-80 290.81 6.692 353 68.808v123.36L203.936 341h.067z" mask="url(#c)"/>
+        <path fill="#64744A" d="M505.024-139.625L371.157-195c-85.103 0-133.81 55.435-133.81 55.435l48.9 84.858L182-5.832l55.347 133.733L465.797 158S533.435 122.753 554 43.118l-48.976-182.743z" mask="url(#c)"/>
+        <path fill="#282018" d="M295.977 26.024L139-39-83 183c0 61.307 24.848 116.805 65.023 156.98L139 405l156.977-65.02C336.149 299.804 361 244.306 361 183c0-61.3-24.851-116.802-65.023-156.976" mask="url(#c)"/>
+        <g mask="url(#c)">
+            <use fill="#000" filter="url(#d)" xlink:href="#e"/>
+            <use fill="url(#f)" xlink:href="#e"/>
+        </g>
+    </g>
+</svg>

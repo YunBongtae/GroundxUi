@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+    <defs>
+        <path id="ew4p8j8ufa" d="M.996.561c-.55 0-.996.446-.996.996v25.446c0 .551.446.997.996.997h26.007c.551 0 .997-.446.997-.997V1.557c0-.55-.446-.996-.997-.996H.996z"/>
+        <path id="3zakfykntc" d="M1.5.001C.947.001.5.448.5.999V33c0 .553.447 1 1 1h26c.552 0 1-.447 1-1V7.5L21 .001H1.5z"/>
+        <path id="fy4l9tr27e" d="M1.5.001C.947.001.5.448.5.999V33c0 .553.447 1 1 1h26c.552 0 1-.447 1-1V7.5L21 .001H1.5z"/>
+        <path id="yrmvdbpvvg" d="M0 44L44 44 44 0 0 0z"/>
+        <path id="s56w47zzni" d="M0 6.5c0 .552.447 1 1 1h6.5L0 .001V6.5z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#6DB3FA" d="M38.004 41H11.997c-.551 0-.997-.446-.997-.997V14.558c0-.55.446-.997.997-.997h26.007c.55 0 .996.446.996.997v25.445c0 .551-.446.997-.996.997"/>
+        <g transform="translate(11 13)">
+            <mask id="lrrifh8eeb" fill="#fff">
+                <use xlink:href="#ew4p8j8ufa"/>
+            </mask>
+            <path d="M.996.561c-.55 0-.996.446-.996.996v25.446c0 .551.446.997.996.997h26.007c.551 0 .997-.446.997-.997V1.557c0-.55-.446-.996-.997-.996H.996z" mask="url(#lrrifh8eeb)"/>
+        </g>
+        <path fill="#ACD4F7" d="M7.5 3c-.552 0-1 .448-1 1v32c0 .552.448 1 1 1h26c.553 0 1-.448 1-1V10.5L27 3H7.5z"/>
+        <g transform="translate(6 3)">
+            <mask id="5pfitjgoed" fill="#fff">
+                <use xlink:href="#3zakfykntc"/>
+            </mask>
+            <path d="M1.5.001C.947.001.5.448.5.999V33c0 .553.447 1 1 1h26c.552 0 1-.447 1-1V7.5L21 .001H1.5z" mask="url(#5pfitjgoed)"/>
+        </g>
+        <g transform="translate(6 3)">
+            <mask id="mcwii6uuuf" fill="#fff">
+                <use xlink:href="#fy4l9tr27e"/>
+            </mask>
+            <path d="M1.5.001C.947.001.5.448.5.999V33c0 .553.447 1 1 1h26c.552 0 1-.447 1-1V7.5L21 .001H1.5z" mask="url(#mcwii6uuuf)"/>
+        </g>
+        <path fill="#E6EEF1" d="M27 3v6.5c0 .552.448 1 1 1h6.5L27 3z"/>
+        <mask id="psqljd5owh" fill="#fff">
+            <use xlink:href="#yrmvdbpvvg"/>
+        </mask>
+        <path fill="#FFF" d="M11 12L19 12 19 11 11 11zM11 18L30 18 30 17 11 17zM11 22L30 22 30 21 11 21zM11 26L30 26 30 25 11 25zM11 30L30 30 30 29 11 29z" mask="url(#psqljd5owh)"/>
+        <g transform="translate(27 3)"/>
+    </g>
+</svg>

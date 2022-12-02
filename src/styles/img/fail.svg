@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="6" cy="6" r="6" fill="#F03465"/>
+        <text fill="#FFF" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="10" letter-spacing="-.375">
+            <tspan x="4.5" y="9.5">!</tspan>
+        </text>
+    </g>
+</svg>
